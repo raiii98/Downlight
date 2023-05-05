@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [Receive config.PrjPcb]
+   Generated File[Receive config.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:53:05 On 28/03/2023

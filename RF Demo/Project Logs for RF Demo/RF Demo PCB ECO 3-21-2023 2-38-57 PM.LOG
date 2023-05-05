@@ -1,0 +1,5 @@
+Added Component: Designator=L3(Inductor 0402)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL2_1 Pin=L3-1
+Added Pin To Net: NetName=NetC6_1 Pin=L3-2
+Added Member To Class: ClassName=RF Member=Component L3 2.7nH

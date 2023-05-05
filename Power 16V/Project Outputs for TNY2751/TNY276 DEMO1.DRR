@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TNY276 DEMO1.PcbDoc   3/28/2023  2:41:01 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TNY276 DEMO1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.8mm (31mil)                                             Round             4         PTH        73.31mm (2.89inch)
+T2      0.85mm (33mil)                                            Round             2         PTH        10.00mm (0.39inch)
+T3      0.86mm (34mil)                                            Round             7         PTH        27.94mm (1.10inch)
+T4      0.89mm (35mil)                                            Round             3         PTH        37.94mm (1.49inch)
+T5      0.9mm (35mil)                                             Round             6         PTH        84.97mm (3.35inch)
+T6      1mm (39mil)                                               Round             4         PTH        62.87mm (2.48inch)
+T7      1.14mm (45mil)                                            Round             12        PTH        84.95mm (3.34inch)
+T8      1.2mm (47mil)                                             Round             2         PTH        8.13mm (0.32inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              40
+
+Total Processing Time (hh:mm:ss) : 00:00:00

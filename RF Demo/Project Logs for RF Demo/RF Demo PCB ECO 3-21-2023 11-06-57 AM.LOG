@@ -1,0 +1,109 @@
+Added Component: Designator=C1(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C3(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C4(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C5(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C6(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C7(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C8(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C9(SM-CAP-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(CON8)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L/0.4)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L/0.4)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L/0.4)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Component: Designator=R1(SM-RES-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SM-RES-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(NRF24l01)
+Added Component: Designator=X1(XT2)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=JP1-7
+Added Pin To Net: NetName=3.3V Pin=U1-7
+Added Pin To Net: NetName=3.3V Pin=U1-15
+Added Pin To Net: NetName=3.3V Pin=U1-18
+Added Net: Name=3.3V
+Added Pin To Net: NetName=CE Pin=JP1-1
+Added Pin To Net: NetName=CE Pin=U1-1
+Added Net: Name=CE
+Added Pin To Net: NetName=CSN Pin=JP1-2
+Added Pin To Net: NetName=CSN Pin=U1-2
+Added Net: Name=CSN
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Net: Name=GND
+Added Pin To Net: NetName=IRQ Pin=JP1-6
+Added Pin To Net: NetName=IRQ Pin=U1-6
+Added Net: Name=IRQ
+Added Pin To Net: NetName=MISO Pin=JP1-5
+Added Pin To Net: NetName=MISO Pin=U1-5
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=JP1-4
+Added Pin To Net: NetName=MOSI Pin=U1-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-19
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=L1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-1
+Added Pin To Net: NetName=NetC6_1 Pin=L3-2
+Added Pin To Net: NetName=NetC6_1 Pin=U1-11
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R2-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-9
+Added Pin To Net: NetName=NetC8_2 Pin=X1-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R2-1
+Added Pin To Net: NetName=NetC9_2 Pin=U1-10
+Added Pin To Net: NetName=NetC9_2 Pin=X1-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L2-2
+Added Pin To Net: NetName=NetL1_1 Pin=U1-13
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=L3-1
+Added Pin To Net: NetName=NetL2_1 Pin=U1-12
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-16
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=RF I/O Pin=C4-1
+Added Pin To Net: NetName=RF I/O Pin=C5-1
+Added Net: Name=RF I/O
+Added Pin To Net: NetName=SCK Pin=JP1-3
+Added Pin To Net: NetName=SCK Pin=U1-3
+Added Net: Name=SCK
+Added Class: Name=RF

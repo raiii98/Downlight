@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Transmitter Suface.PcbDoc   28/03/2023  14:23:10
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Transmitter Suface-RoundHoles.TXT
+ASCII SlotHoles File : Transmitter Suface-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T2      31mil (0.787mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T3      34mil (0.864mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T4      35mil (0.899mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Slot              3         PTH        0.00inch (0.00mm)
+T6      50mil (1.27mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T7      50mil (1.27mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              21
+
+Total Processing Time (hh:mm:ss) : 00:00:00

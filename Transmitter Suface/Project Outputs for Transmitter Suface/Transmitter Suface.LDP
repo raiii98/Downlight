@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ADMIN\Desktop\Documents\Transmitter Suface\Transmitter Suface.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=transmitter suface-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=transmitter suface-slotholes.txt|DrillLayers=gtl,gbl

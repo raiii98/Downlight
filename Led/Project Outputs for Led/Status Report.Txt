@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [Led.PrjPcb]
+   Generated File[Led.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:38:07 On 28/03/2023

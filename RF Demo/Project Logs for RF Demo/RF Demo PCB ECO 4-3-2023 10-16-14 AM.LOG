@@ -1,0 +1,19 @@
+Added Component: Designator=C10(JP4-D2T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61300821821"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=CE Pin=C10-2
+Added Pin To Net: NetName=SCK Pin=C10-3
+Added Pin To Net: NetName=MISO Pin=C10-4
+Added Pin To Net: NetName=IRQ Pin=C10-5
+Added Pin To Net: NetName=MOSI Pin=C10-6
+Added Pin To Net: NetName=CSN Pin=C10-7
+Added Pin To Net: NetName=3.3V Pin=C10-8
+Added Member To Class: ClassName=RF Member=Component C10 JP4x2

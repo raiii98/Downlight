@@ -1,0 +1,4 @@
+Added Component: Designator=A1(F Antena NRF24L)
+Added Pin To Net: NetName=RF I/O Pin=A1-1
+Add Pin To Net: Unknown Pin: Pin A1-2
+Added Member To Class: ClassName=RF Member=Component A1 F Antena

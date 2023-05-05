@@ -1,0 +1,35 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [TNY275.PrjPcb]
+   Generated File[TNY276 DEMO1_Copper_Signal_Top.gbr]
+   Generated File[TNY276 DEMO1_Copper_Signal_Bot.gbr]
+   Generated File[TNY276 DEMO1_Pads_Bot.gbr]
+   Generated File[TNY276 DEMO1_Pads_Top.gbr]
+   Generated File[TNY276 DEMO1_Legend_Top.gbr]
+   Generated File[TNY276 DEMO1_Legend_Bot.gbr]
+   Generated File[TNY276 DEMO1_Soldermask_Top.gbr]
+   Generated File[TNY276 DEMO1_Soldermask_Bot.gbr]
+   Generated File[TNY276 DEMO1_Paste_Bot.gbr]
+   Generated File[TNY276 DEMO1_Paste_Top.gbr]
+   Generated File[TNY276 DEMO1_Keep-out.gbr]
+   Generated File[TNY276 DEMO1_Mechanical_1.gbr]
+   Generated File[TNY276 DEMO1_Top_Assembly.gbr]
+   Generated File[TNY276 DEMO1_Mechanical_5.gbr]
+   Generated File[TNY276 DEMO1_Mechanical_13.gbr]
+   Generated File[TNY276 DEMO1_Mechanical_15.gbr]
+   Generated File[TNY276 DEMO1_Mechanical_20.gbr]
+   Generated File[TNY276 DEMO1_Bottom_Assembly.gbr]
+   Generated File[TNY276 DEMO1_Profile.gbr]
+   Generated File[TNY276 DEMO1_NPTH_Drill.gbr]
+   Generated File[TNY276 DEMO1_PTH_Drill.gbr]
+   Generated File[TNY276 DEMO1_Drawing_1.gbr]
+   Generated File[TNY276 DEMO1_Drillmap_1.gbr]
+   Generated File[TNY276 DEMO1.RUL]
+   Generated File[TNY276 DEMO1.EXTREP]
+   Generated File[TNY276 DEMO1.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 4:15:15 PM On 3/28/2023
