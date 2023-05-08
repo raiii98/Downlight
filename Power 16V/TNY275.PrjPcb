@@ -24,25 +24,16 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
-AutoCrossReferences=0
-NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -66,23 +57,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AJVRLDHV
 
 [Document2]
-DocumentPath=TNY27X.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YRQOFKQV
-
-[Document3]
 DocumentPath=TNY276 DEMO1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,41 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMHLCTWX
 
-[Document4]
-DocumentPath=..\library\toan.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ANDQEYSG
-
-[Document5]
-DocumentPath=..\library\toan.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CNWKRHPN
-
-[Document6]
+[Document3]
 DocumentPath=TNY275.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,249 +90,107 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.1
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GML
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for TNY275\TNY276 DEMO1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Bottom_Assembly.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Mechanical_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Mechanical_13.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Mechanical_15.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Mechanical_20.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for TNY275\TNY276 DEMO1_Top_Assembly.gbr
 DItemRevisionGUID=
 
@@ -409,7 +207,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -511,22 +309,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -599,23 +387,11 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -637,7 +413,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -829,7 +605,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -874,29 +650,11 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=BOM_ReportCompare
-OutputName7=BOM Compare
-OutputDocumentPath7=
-OutputVariantName7=[No Variations]
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=Export Comments
-OutputName8=Export Comments
-OutputDocumentPath8=
-OutputVariantName8=[No Variations]
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1004,7 +762,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1048,7 +806,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1105,16 +863,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Xerox WorkCentre 5230A PS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1242,7 +995,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1434,13 +1186,12 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
-Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
